@@ -1,0 +1,11 @@
+pyquadtree
+==========
+
+My attempt at relearning some C++ and working out how to make native python modules.
+Inspired by Facebook's small world puzzle at:
+    http://www.facebook.com/careers/puzzles.php
+
+
+Implements a simple quadtree object that can efficiently return the n items nearest to a given point.
+
+
